@@ -11,7 +11,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="sebentar"/>
+        android:text="Deo Sunandar 18.02.0337"/>
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
